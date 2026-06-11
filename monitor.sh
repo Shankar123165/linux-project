@@ -1,6 +1,7 @@
 #!/bin/bash
 This is shankar from gorantla
 these is my project
+This is shiva from vijayawada
 echo "----- System Monitoring Project -----"
 echo "System Uptime:"
 uptime
