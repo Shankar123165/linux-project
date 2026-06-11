@@ -1,5 +1,6 @@
 #!/bin/bash
 This is shankar from gorantla
+these is my project
 echo "----- System Monitoring Project -----"
 echo "System Uptime:"
 uptime
